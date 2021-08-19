@@ -1,0 +1,32 @@
+{
+  "searchUrl": "https://www.googleapis.com/youtube/v3/search",
+  "videosUrl": "https://www.googleapis.com/youtube/v3/videos",
+  "searchQueryParams": [
+    {
+      "key": "key",
+      "value": "AIzaSyB-X0dkGGA-hYUEVSn8BW_cpXMXOzuj-Hs"
+    },
+    {
+      "key": "type",
+      "value": "video"
+    },
+    {
+      "key": "maxResults",
+      "value": "15"
+    },
+    {
+      "key": "part",
+      "value": "snippet"
+    }
+  ],
+  "videosQueryParams": [
+    {
+      "key": "key",
+      "value": "AIzaSyB-X0dkGGA-hYUEVSn8BW_cpXMXOzuj-Hs"
+    },
+    {
+      "key": "part",
+      "value": "snippet,statistics"
+    }
+  ]
+}
